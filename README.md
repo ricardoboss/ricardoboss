@@ -1,3 +1,11 @@
-<p>
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoboss&theme=darcula">
-</p>
+# ricardoboss
+
+- [x] Software Developer
+- [x] Lives in Germany
+- [x] Has a website: [ricardoboss.de](https://ricardoboss.de/)
+
+## Favourite Programming Languages
+
+- [x] PHP 🐘
+- [x] C#
+- [x] Java
