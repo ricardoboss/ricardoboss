@@ -1,11 +1,11 @@
-# ricardoboss
+# ricardoboss in short:
 
-- [x] Software Developer
-- [x] Lives in Germany
-- [x] Has a website: [ricardoboss.de](https://ricardoboss.de/)
+- :man_technologist: Software Developer
+- :de: born in Germany
+- :globe_with_meridians: [ricardoboss.de](https://ricardoboss.de/)
 
 ## Favourite Programming Languages
 
-- [x] PHP 🐘
-- [x] C#
-- [x] Java
+- :1st_place_medal: PHP
+- :medal_sports: C#
+- :medal_sports: Java
