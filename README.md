@@ -1,7 +1,7 @@
 - :man_technologist: Software Developer
 - :de: born in Germany
 - :globe_with_meridians: [ricardoboss.de](https://ricardoboss.de/)
-- :pizza: likes Pizza
+- 🍔: likes Burgers
 
 Favourite Programming Languages:
 
