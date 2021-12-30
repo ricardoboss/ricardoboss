@@ -1,11 +1,10 @@
-- :man_technologist: Software Developer
-- :de: born in Germany
-- :globe_with_meridians: [ricardoboss.de](https://ricardoboss.de/)
-- 🍔: likes Burgers
+- 🧑‍💻 Software Developer
+- 🇩🇪 from Germany
+- 🍔 likes Burgers
+- 🌐 has a website: [ricardoboss.de](https://ricardoboss.de/)
 
 Favourite Programming Languages:
 
-1. :1st_place_medal: PHP
-2. :medal_sports: C#
-3. :medal_sports: Java
-4. JavaScript
+1. 🥇 PHP
+2. 🏅 C#
+3. 🏅 Java
