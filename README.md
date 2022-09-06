@@ -1,8 +1,8 @@
-# Hi 👋
+## Hi 👋
 
 I develop tools and libraries in many kinds of technologies and for different purposes and learn a lot by just doing random projects.
 
-### ⬅️ That's me btw
+⬅️ That's me btw
 
 I have a website: [ricardoboss.de](https://ricardoboss.de/)
 
@@ -18,6 +18,4 @@ I like to eat burgers 🍔
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoboss&layout=compact&hide=java" />
   <img src="https://github-readme-stats.vercel.app/api?username=ricardoboss&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true" />
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=ricardoboss&no-bg=true&no-frame=true">
 </p>
