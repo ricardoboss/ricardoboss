@@ -1,13 +1,16 @@
-### I am Ricardo Boss 👋
+## I am Ricardo Boss 👋
+
+"My home is the web. That's what I grew up with and that's where I'm most proficient at."
 
 [![Homepage](https://img.shields.io/badge/ricardoboss.de-%2333aa66.svg?style=for-the-badge&logo=microsoft-edge&logoColor=white)](https://ricardoboss.de)
 [![Twitter](https://img.shields.io/badge/@__ricardoboss-%231c9cea.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_ricardoboss)
 [![LinkedIn](https://img.shields.io/badge/ricardo--boss-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-boss/)
 [![Xing](https://img.shields.io/badge/Ricardo__Boss2-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Ricardo_Boss2/portfolio)
 
-Mention any of my projects when contacting me 😉. _I probably won't respond to cold openers without this reference._
+Mention my GitHub when contacting me through job portals if you want me to take a look aswell 😉.  
+<sub>I probably won't respond to cold openers without this reference.</sub>
 
-### Tech Stack
+## Tech Stack
 
 #### Languages
 
@@ -32,13 +35,7 @@ Mention any of my projects when contacting me 😉. _I probably won't respond to
 [![Android Studio](https://img.shields.io/badge/Android_Studio-%233ddc84.svg?style=for-the-badge&logo=android-studio&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-%232496ed.svg?style=for-the-badge&logo=docker&logoColor=white)](#)
 
-### Ambitions
-
-I develop tools and libraries in many kinds of technologies and for different purposes and learn a lot by taking on random projects.
-
-My latest ambition is learning Rust.
-
-#### Package Manager Profiles
+## Package Manager Profiles
 
 I have published packages on these platforms:
 
@@ -46,7 +43,7 @@ I have published packages on these platforms:
 [![packagist.org](https://img.shields.io/badge/Packagist-ricardoboss-%23f28d1a.svg?style=for-the-badge&logo=packagist)](https://packagist.org/packages/ricardoboss)
 [![npm](https://img.shields.io/badge/npm-ricardoboss-%23cb3837.svg?style=for-the-badge&logo=npm)](https://www.npmjs.com/~ricardoboss)
 
-### Other stuff
+## Other stuff
 
 #### Stats
 
