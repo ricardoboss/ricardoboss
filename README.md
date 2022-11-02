@@ -4,7 +4,7 @@
 
 [![Homepage](https://img.shields.io/badge/ricardoboss.de-%2333aa66.svg?style=for-the-badge&logo=microsoft-edge&logoColor=white)](https://ricardoboss.de)
 [![Twitter](https://img.shields.io/badge/@__ricardoboss-%231c9cea.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_ricardoboss)
-<a rel="me" href="https://phpc.social/@ricardoboss"><img src="https://img.shields.io/badge/ricardoboss@phpc.social-%23006567.svg?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon (phpc.social)"></a>
+<a rel="me nofollow" href="https://phpc.social/@ricardoboss"><img src="https://img.shields.io/badge/ricardoboss@phpc.social-%23006567.svg?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon (phpc.social)"></a>
 [![LinkedIn](https://img.shields.io/badge/ricardo--boss-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-boss/)
 [![Xing](https://img.shields.io/badge/Ricardo__Boss2-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Ricardo_Boss2/portfolio)
 
