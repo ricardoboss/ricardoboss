@@ -22,7 +22,7 @@ Mention my GitHub when contacting me through job portals if you want me to take 
 
 #### Frameworks
 
-[![Elephox](https://img.shields.io/badge/Elephox-%23dc2877.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSI3MS4wMTZtbSIgaGVpZ2h0PSI4MS4yODdtbSIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwIDAgMjUxLjYxIDI4OCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+PHBhdGggZD0ibTIwMC44MiAyODhoLTIwMC44Mmw1MC44Mi0yODhoMjAwLjc5bC0xMS4yIDYyLjQxaC0xMjguOGwtOS4yIDU0aDEwNi40MWwtMTEuMjEgNjIuMzloLTEwNi40bC04IDQ2Ljc5aDEyOC43OXoiIGZpbGw9IiNmZmYiLz48L3N2Zz4K)](#)
+[![Elephox](https://img.shields.io/badge/Elephox-%23dc2877.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSI3MS4wMTZtbSIgaGVpZ2h0PSI4MS4yODdtbSIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwIDAgMjUxLjYxIDI4OCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+PHBhdGggZD0ibTIwMC44MiAyODhoLTIwMC44Mmw1MC44Mi0yODhoMjAwLjc5bC0xMS4yIDYyLjQxaC0xMjguOGwtOS4yIDU0aDEwNi40MWwtMTEuMjEgNjIuMzloLTEwNi40bC04IDQ2Ljc5aDEyOC43OXoiIGZpbGw9IiNmZmYiLz48L3N2Zz4K)](https://github.com/elephox-dev)
 [![.NET](https://img.shields.io/badge/.NET-%23512bd4.svg?style=for-the-badge)](#)
 [![Xamarin](https://img.shields.io/badge/Xamarin-%233498db.svg?style=for-the-badge&logo=xamarin&logoColor=white)](#)
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569b.svg?style=for-the-badge&logo=flutter&logoColor=white)](#)
