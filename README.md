@@ -13,6 +13,8 @@ Mention my GitHub when contacting me through job portals if you want me to take 
 
 ## Tech Stack
 
+> See also: [ricardoboss.de/uses](https://ricardoboss.de/uses)
+
 #### Languages
 
 [![PHP](https://img.shields.io/badge/PHP-%23777bb4.svg?style=for-the-badge&logo=php&logoColor=white)](#)
