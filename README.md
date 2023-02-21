@@ -13,8 +13,6 @@ Mention my GitHub when contacting me through job portals if you want me to take 
 
 ## Tech Stack
 
-> See also: [ricardoboss.de/uses](https://ricardoboss.de/uses)
-
 #### Languages
 
 [![PHP](https://img.shields.io/badge/PHP-%23777bb4.svg?style=for-the-badge&logo=php&logoColor=white)](#)
@@ -37,6 +35,8 @@ Mention my GitHub when contacting me through job portals if you want me to take 
 [![JetBrains Rider](https://img.shields.io/badge/Rider-%23000000.svg?style=for-the-badge&logo=rider&logoColor=white)](#)
 [![Android Studio](https://img.shields.io/badge/Android_Studio-%233ddc84.svg?style=for-the-badge&logo=android-studio&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-%232496ed.svg?style=for-the-badge&logo=docker&logoColor=white)](#)
+
+> See also: [ricardoboss.de/uses](https://ricardoboss.de/uses)
 
 ## Package Manager Profiles
 
