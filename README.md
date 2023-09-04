@@ -6,9 +6,6 @@
 [![Twitter](https://img.shields.io/badge/@__ricardoboss-%231c9cea.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_ricardoboss)
 <a rel="me nofollow" href="https://phpc.social/@ricardoboss"><img src="https://img.shields.io/badge/ricardoboss@phpc.social-%23006567.svg?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon (phpc.social)"></a>
 
-Mention my GitHub when contacting me through job portals if you want me to take a look aswell 😉.  
-<sub>I probably won't respond to cold openers without this reference.</sub>
-
 ## Tech Stack
 
 #### Languages
