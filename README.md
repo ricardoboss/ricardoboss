@@ -10,15 +10,15 @@
 
 #### Languages
 
-[![PHP](https://img.shields.io/badge/PHP-%23777bb4.svg?style=for-the-badge&logo=php&logoColor=white)](#)
 [![C#](https://img.shields.io/badge/C--Sharp-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](#)
 [![Dart](https://img.shields.io/badge/Dart-%230175c2.svg?style=for-the-badge&logo=dart&logoColor=white)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-%233178c6.svg?style=for-the-badge&logo=ts-node&logoColor=white)](#)
+[![PHP](https://img.shields.io/badge/PHP-%23777bb4.svg?style=for-the-badge&logo=php&logoColor=white)](#)
+[![STEP](https://img.shields.io/badge/STEP-%232c9fcb.svg?style=for-the-badge)](https://step-lang.dev)
 
 #### Frameworks
 
 [![.NET](https://img.shields.io/badge/.NET-%23512bd4.svg?style=for-the-badge)](#)
-[![Xamarin](https://img.shields.io/badge/Xamarin-%233498db.svg?style=for-the-badge&logo=xamarin&logoColor=white)](#)
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569b.svg?style=for-the-badge&logo=flutter&logoColor=white)](#)
 [![Vue.js](https://img.shields.io/badge/Vue.js-%234fc08d.svg?style=for-the-badge&logo=vue.js&logoColor=white)](#)
 
