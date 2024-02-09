@@ -8,9 +8,11 @@
 
 ## Tech Stack
 
+See also: [ricardoboss.de/uses](https://ricardoboss.de/uses)
+
 #### Languages
 
-[![C#](https://img.shields.io/badge/C--Sharp-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](#)
+[![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](#)
 [![Dart](https://img.shields.io/badge/Dart-%230175c2.svg?style=for-the-badge&logo=dart&logoColor=white)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-%233178c6.svg?style=for-the-badge&logo=ts-node&logoColor=white)](#)
 [![PHP](https://img.shields.io/badge/PHP-%23777bb4.svg?style=for-the-badge&logo=php&logoColor=white)](#)
@@ -25,12 +27,10 @@
 #### Tools
 
 [![Git](https://img.shields.io/badge/Git-%23f05032.svg?style=for-the-badge&logo=git&logoColor=white)](#)
-[![JetBrains PhpStorm](https://img.shields.io/badge/PhpStorm-%23000000.svg?style=for-the-badge&logo=phpstorm&logoColor=white)](#)
 [![JetBrains Rider](https://img.shields.io/badge/Rider-%23000000.svg?style=for-the-badge&logo=rider&logoColor=white)](#)
+[![JetBrains PhpStorm](https://img.shields.io/badge/PhpStorm-%23000000.svg?style=for-the-badge&logo=phpstorm&logoColor=white)](#)
 [![Android Studio](https://img.shields.io/badge/Android_Studio-%233ddc84.svg?style=for-the-badge&logo=android-studio&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-%232496ed.svg?style=for-the-badge&logo=docker&logoColor=white)](#)
-
-> See also: [ricardoboss.de/uses](https://ricardoboss.de/uses)
 
 ## Package Manager Profiles
 
@@ -44,7 +44,8 @@ I have published packages on these platforms:
 
 #### Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricardoboss&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true)](#)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricardoboss&hide_title=true&include_all_commits=true&count_private=true)](#)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ricardoboss&layout=compact)](#)
 
 #### Listen with me
 
