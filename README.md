@@ -45,7 +45,7 @@ I have published packages on these platforms:
 #### Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricardoboss&hide_title=true&include_all_commits=true&count_private=true)](#)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ricardoboss&layout=compact)](#)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ricardoboss&layout=compact&size_weight=0.5&count_weight=0.5&hide=java)](#)
 
 #### Listen with me
 
