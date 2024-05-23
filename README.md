@@ -46,7 +46,10 @@ I have published packages on these platforms:
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricardoboss&include_all_commits=true&count_private=true)](#)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ricardoboss&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&hide=java)](#)
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ricardoboss&layout=compact)](#)
+
+#### How often do I code?
+
+[![](https://wakatime.com/share/@ricardoboss/37e82f0a-7ca7-4ebc-820e-f433c1547301.svg)](#)
 
 #### Listen with me
 
