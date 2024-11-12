@@ -16,7 +16,6 @@ See also: [ricardoboss.de/uses](https://ricardoboss.de/uses)
 [![Dart](https://img.shields.io/badge/Dart-%230175c2.svg?style=for-the-badge&logo=dart&logoColor=white)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-%233178c6.svg?style=for-the-badge&logo=ts-node&logoColor=white)](#)
 [![PHP](https://img.shields.io/badge/PHP-%23777bb4.svg?style=for-the-badge&logo=php&logoColor=white)](#)
-[![STEP](https://img.shields.io/badge/STEP-%232c9fcb.svg?style=for-the-badge)](https://step-lang.dev)
 
 #### Frameworks
 
