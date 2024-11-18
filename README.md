@@ -52,4 +52,4 @@ I have published packages on these platforms:
 
 #### Listen with me
 
-[![Click to play!](https://spotify-github-profile.kittinanx.com/api/view?uid=9uch48y3s8j6b2vn9zmk67z7n&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=9uch48y3s8j6b2vn9zmk67z7n&redirect=true)
+[![Click to play!](https://spotify-github-profile.kittinanx.com/api/view?uid=9uch48y3s8j6b2vn9zmk67z7n&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=9uch48y3s8j6b2vn9zmk67z7n&redirect=true)
