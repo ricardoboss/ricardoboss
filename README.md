@@ -43,8 +43,7 @@ I have published packages on these platforms:
 
 #### Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricardoboss&include_all_commits=true&count_private=true)](#)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ricardoboss&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&hide=java)](#)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricardoboss&include_all_commits=true&count_private=true)](https://github-readme-stats.vercel.app)
 
 #### How often do I code?
 
@@ -52,4 +51,4 @@ I have published packages on these platforms:
 
 #### Listen with me
 
-[![Click to play!](https://spotify-github-profile.kittinanx.com/api/view?uid=9uch48y3s8j6b2vn9zmk67z7n&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=9uch48y3s8j6b2vn9zmk67z7n&redirect=true)
+[![Click to play!](https://spotify-github-profile.kittinanx.com/api/view?uid=9uch48y3s8j6b2vn9zmk67z7n&cover_image=true&theme=novatorem&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=9uch48y3s8j6b2vn9zmk67z7n&redirect=true)
