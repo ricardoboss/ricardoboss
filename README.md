@@ -2,20 +2,17 @@
 
 "My home is the web. That's what I grew up with and that's where I'm most proficient at."
 
-[![Homepage](https://img.shields.io/badge/ricardoboss.de-%2333aa66.svg?logo=microsoft-edge&logoColor=white)](https://ricardoboss.de)
-[![Twitter](https://img.shields.io/badge/@__ricardoboss-%231c9cea.svg?logo=twitter&logoColor=white)](https://twitter.com/_ricardoboss)
+[![Homepage](https://img.shields.io/badge/ricardoboss.de-%2333aa66.svg?logo=arc&logoColor=white)](https://ricardoboss.de)
+[![Twitter](https://img.shields.io/badge/@__ricardoboss-%231c9cea.svg?logo=x&logoColor=white)](https://twitter.com/_ricardoboss)
 <a rel="me nofollow" href="https://phpc.social/@ricardoboss"><img src="https://img.shields.io/badge/ricardoboss@phpc.social-%23006567.svg?logo=mastodon&logoColor=white" alt="Mastodon (phpc.social)"></a>
 
 ## Tech Stack
-
-See also: [ricardoboss.de/uses](https://ricardoboss.de/uses)
 
 #### Languages
 
 [![C#](https://img.shields.io/badge/C%23-%23239120.svg?logo=c-sharp&logoColor=white)](#)
 [![Dart](https://img.shields.io/badge/Dart-%230175c2.svg?logo=dart&logoColor=white)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-%233178c6.svg?logo=ts-node&logoColor=white)](#)
-[![PHP](https://img.shields.io/badge/PHP-%23777bb4.svg?logo=php&logoColor=white)](#)
 
 #### Frameworks
 
@@ -30,6 +27,8 @@ See also: [ricardoboss.de/uses](https://ricardoboss.de/uses)
 [![JetBrains PhpStorm](https://img.shields.io/badge/PhpStorm-%23000000.svg?logo=phpstorm&logoColor=white)](#)
 [![Android Studio](https://img.shields.io/badge/Android_Studio-%233ddc84.svg?logo=android-studio&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-%232496ed.svg?logo=docker&logoColor=white)](#)
+
+See also: [ricardoboss.de/uses](https://ricardoboss.de/uses)
 
 ## Package Manager Profiles
 
