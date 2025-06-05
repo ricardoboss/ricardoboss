@@ -2,7 +2,7 @@
 
 "My home is the web. That's what I grew up with and that's where I'm most proficient at."
 
-[![Homepage](https://img.shields.io/badge/ricardoboss.de-%2333aa66.svg?logo=arc&logoColor=white)](https://ricardoboss.de)
+[![Homepage](https://img.shields.io/badge/ricardoboss.de-%2333aa66.svg?logo=zenbrowser&logoColor=white)](https://ricardoboss.de)
 [![Twitter](https://img.shields.io/badge/@__ricardoboss-%231c9cea.svg?logo=x&logoColor=white)](https://twitter.com/_ricardoboss)
 <a rel="me nofollow" href="https://phpc.social/@ricardoboss"><img src="https://img.shields.io/badge/ricardoboss@phpc.social-%23006567.svg?logo=mastodon&logoColor=white" alt="Mastodon (phpc.social)"></a>
 
